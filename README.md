@@ -35,5 +35,6 @@
   * Les news
   * Espace encadrants
   
+---
   
 ### *Le thème retenu est https://www.materialpalette.com/indigo/blue-grey*
