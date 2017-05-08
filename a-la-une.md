@@ -3,7 +3,6 @@
 >Le dropdown du menu n'aura plus lieu d'être
 
 <br>
-<br>
 
 
 
