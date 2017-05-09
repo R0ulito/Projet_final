@@ -1,8 +1,7 @@
-## Projet_final
+# Projet_final
 
----
 
-### ***Menu de base***
+## ***Menu de base***
 
 * Accueil
 * A la une
@@ -39,4 +38,22 @@
   
 ---
   
-### *Le thème retenu est https://www.materialpalette.com/indigo/blue-grey*
+## Menu après refonte
+
+* Le club
+  * Philosophie
+  * Présentation
+  * Matériel
+  * Trombinoscope
+  * Textes officiels
+  * Liens utiles
+ 
+* Activités
+  * Formations
+  * Sorties
+  * Vie du club
+ 
+* Inscription
+* Contact
+* Agenda
+* Espace membres
