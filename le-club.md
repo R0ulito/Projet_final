@@ -56,7 +56,7 @@ Il y a un lien vers:
 * Le site du [ministère](http://www.seine-et-marne.jeunesse-sports.gouv.fr/)
 * Le site de la [fédération](http://www.ffessm.fr/)
 * Le site du [comité départemental](http://www.ffessm77.fr/) de la fédération
-* Le site du [comité régional](http://www.ffessm77.fr/)
+* Le site du [comité régional](http://www.ffessm-cif.fr/)
 * Le site du [cabinet lafont](http://www.cabinet-lafont.com/)
 * le site de la [CMAS](http://www.cmas2000.org/index.asp) *Confédération Mondiale des Activités Subaquatiques*
 
